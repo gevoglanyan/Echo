@@ -28,6 +28,10 @@ export default function EditorPanel({
         </a>
       </h2>
 
+      <h3>
+        Currently a Work in Progress!
+      </h3>
+
       <br />
 
       <div className="panel-section">
