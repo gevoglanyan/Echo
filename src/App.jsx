@@ -7,12 +7,12 @@ export default function App() {
 
   const [sender, setSender] = useState({
     name: "John",
-    avatar: "/src/assests/preview.png"
+    avatar: "/preview.png"
   });
 
   const [receiver, setReceiver] = useState({
     name: "Doe",
-    avatar: "/src/assests/preview.png"
+    avatar: "/preview.png"
   });
 
   const [rawText, setRawText] = useState(
